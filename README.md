@@ -52,10 +52,4 @@ sudo ./run_all.sh
 
 ---
 
-## 📄 License
-
-MIT License
-
----
-
 Happy hacking! ⚔️

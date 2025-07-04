@@ -1,0 +1,12 @@
+ADCSPwn.exe https://github.com/bats3c/ADCSPwn/releases/latest/download/ADCSPwn.exe ADCSPwn
+pywhisker.py https://raw.githubusercontent.com/ShutdownRepo/pywhisker/main/pywhisker.py pywhisker
+getnthash.py https://raw.githubusercontent.com/dirkjanm/PKINITtools/master/getnthash.py PKINITtools
+gettgtpkinit.py https://raw.githubusercontent.com/dirkjanm/PKINITtools/master/gettgtpkinit.py PKINITtools
+gets4uticket.py https://raw.githubusercontent.com/dirkjanm/PKINITtools/master/gets4uticket.py PKINITtools
+ForgeCert.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/ForgeCert.exe ForgeCert
+PSPKIAudit.zip https://github.com/GhostPack/PSPKIAudit/archive/master.zip PSPKIAudit
+Certify.exe https://raw.githubusercontent.com/r3motecontrol/Ghostpack-CompiledBinaries/master/Certify.exe Certify
+Invoke-Certify.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/PowerSharpPack/master/PowerSharpBinaries/Invoke-Certify.ps1 Certify
+passthecert.py https://raw.githubusercontent.com/AlmondOffSec/PassTheCert/main/Python/passthecert.py PassTheCert
+modifyCertTemplate.py https://raw.githubusercontent.com/fortalice/modifyCertTemplate/master/modifyCertTemplate.py modifyCertTemplate
+Certipy https://github.com/ly4k/Certipy/releases/latest/download/Certipy.exe Certipy

@@ -1,0 +1,8 @@
+Invoke-InveighRelay.ps1 https://raw.githubusercontent.com/BC-SECURITY/Empire/master/empire/server/data/module_source/lateral_movement/Invoke-InveighRelay.ps1 Inveigh
+Inveigh-Relay.ps1 https://raw.githubusercontent.com/Kevin-Robertson/Inveigh/master/Inveigh-Relay.ps1 Inveigh
+Inveigh.ps1 https://raw.githubusercontent.com/Kevin-Robertson/Inveigh/master/Inveigh.ps1 Inveigh
+Invoke-Inveigh.ps1 https://raw.githubusercontent.com/BC-SECURITY/Empire/master/empire/server/data/module_source/collection/Invoke-Inveigh.ps1 Inveigh
+Inveigh.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/Inveigh.exe Inveigh
+ntlm_theft.zip https://github.com/Greenwolf/ntlm_theft/archive/refs/heads/master.zip ntlm_theft
+lsarelayx.zip https://github.com/CCob/lsarelayx/releases/download/v0.1/lsarelayx_0.1_ALPHA.zip lsarelayx
+git:Responder https://github.com/lgandx/Responder.git Responder

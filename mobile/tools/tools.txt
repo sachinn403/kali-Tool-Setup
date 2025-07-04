@@ -1,0 +1,16 @@
+git:apkleaks https://github.com/dwisiswant0/apkleaks Android_Tools
+git:aeroot https://github.com/quarkslab/AERoot Android_Tools
+pip:frida-tools https://github.com/frida/frida Android_Tools
+git:objection https://github.com/sensepost/objection Android_Tools
+git:radare2 https://github.com/radareorg/radare2 Android_Tools
+git:dnspy https://github.com/dnSpy/dnSpy Android_Tools
+git:Drozer https://github.com/FSecureLABS/drozer Android_Tools
+git:MobSF https://github.com/MobSF/Mobile-Security-Framework-MobSF Android_Tools
+binary:apktool https://bitbucket.org/iBotPeaches/apktool/downloads/apktool_2.10.0.jar Android_Tools
+git:jadx https://github.com/skylot/jadx Android_Tools
+git:dex2jar https://github.com/pxb1988/dex2jar Android_Tools
+binary:adb https://dl.google.com/android/repository/platform-tools-latest-linux.zip SDK_JDK_Tools
+binary:aapt https://dl.google.com/android/repository/platform-tools-latest-linux.zip SDK_JDK_Tools
+binary:apksigner https://dl.google.com/android/repository/platform-tools-latest-linux.zip SDK_JDK_Tools
+binary:zipalign https://dl.google.com/android/repository/platform-tools-latest-linux.zip SDK_JDK_Tools
+manual:jarsigner https://www.oracle.com/java/technologies/javase-jdk11-downloads.html SDK_JDK_Tools

@@ -1,0 +1,1 @@
+Microsoft.ActiveDirectory.Management.dll https://raw.githubusercontent.com/samratashok/ADModule/master/Microsoft.ActiveDirectory.Management.dll ADModule

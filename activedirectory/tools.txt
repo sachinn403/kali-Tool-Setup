@@ -1,0 +1,447 @@
+# ACL
+ADACLScan.ps1 https://raw.githubusercontent.com/canix1/ADACLScanner/master/ADACLScan.ps1 ADACLScanner
+ACLight.zip https://github.com/cyberark/ACLight/archive/master.zip ACLight
+ACLight2.ps1 https://raw.githubusercontent.com/cyberark/ACLight/master/ACLight2.ps1 ACLight
+Add-RemoteRegBackdoor.ps1 https://raw.githubusercontent.com/HarmJ0y/DAMP/master/Add-RemoteRegBackdoor.ps1 DAMP
+RemoteHashRetrieval.ps1 https://raw.githubusercontent.com/HarmJ0y/DAMP/master/RemoteHashRetrieval.ps1 DAMP
+
+# ADCS
+ADCSPwn.exe https://github.com/bats3c/ADCSPwn/releases/latest/download/ADCSPwn.exe ADCSPwn
+pywhisker.py https://raw.githubusercontent.com/ShutdownRepo/pywhisker/main/pywhisker.py pywhisker
+getnthash.py https://raw.githubusercontent.com/dirkjanm/PKINITtools/master/getnthash.py PKINITtools
+gettgtpkinit.py https://raw.githubusercontent.com/dirkjanm/PKINITtools/master/gettgtpkinit.py PKINITtools
+gets4uticket.py https://raw.githubusercontent.com/dirkjanm/PKINITtools/master/gets4uticket.py PKINITtools
+ForgeCert.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/ForgeCert.exe ForgeCert
+PSPKIAudit.zip https://github.com/GhostPack/PSPKIAudit/archive/master.zip PSPKIAudit
+Certify.exe https://raw.githubusercontent.com/r3motecontrol/Ghostpack-CompiledBinaries/master/Certify.exe Certify
+Invoke-Certify.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/PowerSharpPack/master/PowerSharpBinaries/Invoke-Certify.ps1 Certify
+passthecert.py https://raw.githubusercontent.com/AlmondOffSec/PassTheCert/main/Python/passthecert.py PassTheCert
+modifyCertTemplate.py https://raw.githubusercontent.com/fortalice/modifyCertTemplate/master/modifyCertTemplate.py modifyCertTemplate
+
+# AD-Enum
+SharpHound.exe https://raw.githubusercontent.com/BloodHoundAD/BloodHound/master/Collectors/SharpHound.exe SharpHound
+SharpHound.ps1 https://raw.githubusercontent.com/BloodHoundAD/BloodHound/master/Collectors/SharpHound.ps1 SharpHound
+Invoke-SharpHound4.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/PowerSharpPack/master/PowerSharpBinaries/Invoke-SharpHound4.ps1 SharpHound
+ADRecon.ps1 https://raw.githubusercontent.com/adrecon/ADRecon/master/ADRecon.ps1 ADRecon
+Grouper2.exe https://github.com/Flangvik/SharpCollection/raw/master/NetFramework_4.7_Any/Grouper2.exe Grouper2
+Invoke-Grouper2.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/PowerSharpPack/master/PowerSharpBinaries/Invoke-Grouper2.ps1 Grouper2
+Group3r.exe https://github.com/Flangvik/SharpCollection/raw/master/NetFramework_4.7_Any/Group3r.exe Group3r
+SharpView.exe https://github.com/tevora-threat/SharpView/raw/master/Compiled/SharpView.exe SharpView
+PowerView.ps1 https://raw.githubusercontent.com/BC-SECURITY/Empire/master/empire/server/data/module_source/situational_awareness/network/powerview.ps1 PowerView
+ADSearch.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/ADSearch.exe ADSearch
+ADHuntUser.exe https://raw.githubusercontent.com/Mr-Un1k0d3r/ADHuntTool/main/ADHuntUser.exe ADHuntTool
+ADHuntTool.exe https://raw.githubusercontent.com/Mr-Un1k0d3r/ADHuntTool/main/ADHuntTool.exe ADHuntTool
+ADCollector.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/ADCollector.exe ADCollector
+ADFSDump.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/ADFSDump.exe ADFSDump
+TruffleSnout.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/TruffleSnout.exe TruffleSnout
+git:ADRecon https://github.com/adrecon/ADRecon.git ADRecon
+git:BloodHound https://github.com/BloodHoundAD/BloodHound.git BloodHound
+
+# AD-Module
+Microsoft.ActiveDirectory.Management.dll https://raw.githubusercontent.com/samratashok/ADModule/master/Microsoft.ActiveDirectory.Management.dll ADModule
+
+# Adversary-Simulation-Emulation
+PurpleSharp.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/PurpleSharp.exe PurpleSharp
+
+# Credentials-collection
+mimikatz_trunk.zip https://github.com/gentilkiwi/mimikatz/releases/download/2.2.0-20220919/mimikatz_trunk.zip mimikatz
+Invoke-Mimikatz.ps1 https://raw.githubusercontent.com/BC-SECURITY/Empire/master/empire/server/data/module_source/credentials/Invoke-Mimikatz.ps1 mimikatz
+loadmimi.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/Creds/master/obfuscatedps/loadmimi.ps1 mimikatz
+mimi.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/Creds/master/obfuscatedps/mimi.ps1 mimikatz
+SafetyKatz.exe https://raw.githubusercontent.com/r3motecontrol/Ghostpack-CompiledBinaries/master/SafetyKatz.exe SafetyKatz
+Invoke-SafetyKatz.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/PowerSharpPack/master/PowerSharpBinaries/Invoke-SafetyKatz.ps1 SafetyKatz
+BetterSafetyKatz.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/BetterSafetyKatz.exe BetterSafetyKatz
+SharpKatz.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpKatz.exe SharpKatz
+Out-Minidump.ps1 https://raw.githubusercontent.com/BC-SECURITY/Empire/master/empire/server/data/module_source/collection/Out-Minidump.ps1 Out-Minidump
+SharpDump.exe https://raw.githubusercontent.com/r3motecontrol/Ghostpack-CompiledBinaries/master/SharpDump.exe SharpDump
+SharpMiniDump.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpMiniDump.exe SharpMiniDump
+spraykatz.zip https://github.com/aas-n/spraykatz/archive/master.zip spraykatz
+Invoke-PowerDump.ps1 https://raw.githubusercontent.com/BC-SECURITY/Empire/master/empire/server/data/module_source/credentials/Invoke-PowerDump.ps1 PowerDump
+Invoke-InternalMonologue.ps1 https://raw.githubusercontent.com/paranoidninja/Pandoras-Box/master/powershell/Invoke-InternalMonologue.ps1 InternalMonologue
+passhunt.py https://raw.githubusercontent.com/Dionach/PassHunt/master/passhunt.py passhunt
+passhunt.exe https://raw.githubusercontent.com/Dionach/PassHunt/master/passhunt.exe passhunt
+Snaffler.exe https://github.com/SnaffCon/Snaffler/releases/download/1.0.149/Snaffler.exe Snaffler
+KeeThief.ps1 https://raw.githubusercontent.com/GhostPack/KeeThief/master/PowerShell/KeeThief.ps1 KeeThief
+HiveNightmare.exe https://github.com/GossiTheDog/HiveNightmare/releases/download/1.2/HiveNightmare.exe HiveNightmare
+SharpChromium.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpChromium.exe SharpChromium
+SessionGopher.ps1 https://raw.githubusercontent.com/Arvanaghi/SessionGopher/master/SessionGopher.ps1 SessionGopher
+segoph.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/Creds/master/obfuscatedps/segoph.ps1 SessionGopher
+Invoke-WCMDump.ps1 https://raw.githubusercontent.com/peewpw/Invoke-WCMDump/master/Invoke-WCMDump.ps1 Invoke-WCMDump
+DumpWCM.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/Creds/master/obfuscatedps/DumpWCM.ps1 DumpWCM
+SafetyDump.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/Creds/master/PowershellScripts/SafetyDump.ps1 SafetyDump
+Get-GPPPassword.ps1 https://raw.githubusercontent.com/BC-SECURITY/Empire/master/empire/server/data/module_source/privesc/Get-GPPPassword.ps1 Get-GPPPassword
+SharpSecDump.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpSecDump.exe SharpSecDump
+Invoke-SharpSecDump.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/PowerSharpPack/master/PowerSharpBinaries/Invoke-SharpSecDump.ps1 SharpSecDump
+SharpDPAPI.exe https://raw.githubusercontent.com/r3motecontrol/Ghostpack-CompiledBinaries/master/SharpDPAPI.exe SharpDPAPI
+SharpCloud.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpCloud.exe SharpCloud
+Invoke-SharpCloud.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/PowerSharpPack/master/PowerSharpBinaries/Invoke-SharpCloud.ps1 SharpCloud
+dumpCredStore.ps1 https://raw.githubusercontent.com/BC-SECURITY/Empire/master/empire/server/data/module_source/credentials/dumpCredStore.ps1 dumpCredStore
+DonPAPI.zip https://github.com/login-securite/DonPAPI/archive/master.zip DonPAPI
+nanodump.x64.exe https://raw.githubusercontent.com/helpsystems/nanodump/main/dist/nanodump.x64.exe nanodump
+Invoke-NanoDump.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/PowerSharpPack/master/PowerSharpBinaries/Invoke-NanoDump.ps1 nanodump
+Invoke-Handlekatz.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/Creds/master/PowershellScripts/Invoke-Handlekatz.ps1 Handlekatz
+git:Spraykatz https://github.com/aas-n/spraykatz.git spraykatz
+git:KeeThief https://github.com/GhostPack/KeeThief.git KeeThief
+git:SafetyKatz https://github.com/GhostPack/SafetyKatz.git SafetyKatz
+git:SharpDump https://github.com/GhostPack/SharpDump.git SharpDump
+git:SharpDPAPI https://github.com/GhostPack/SharpDPAPI.git SharpDPAPI
+
+# DCSync
+Invoke-DCSync.ps1 https://raw.githubusercontent.com/BC-SECURITY/Empire/master/empire/server/data/module_source/credentials/Invoke-DCSync.ps1 Invoke-DCSync
+git:Invoke-DCSync https://github.com/pentestfactory/Invoke-DCSync.git Invoke-DCSync
+
+# Delegation
+rbcd.py https://raw.githubusercontent.com/tothi/rbcd-attack/master/rbcd.py rbcd
+rbcd_relay.py https://gist.githubusercontent.com/3xocyte/4ea8e15332e5008581febdb502d0139c/raw/b3010b795ac55f8f6c72692256a5150884b058fb/rbcd_relay.py rbcd
+printerbug.py https://raw.githubusercontent.com/dirkjanm/krbrelayx/master/printerbug.py krbrelayx
+dnstool.py https://raw.githubusercontent.com/dirkjanm/krbrelayx/master/dnstool.py krbrelayx
+addspn.py https://raw.githubusercontent.com/dirkjanm/krbrelayx/master/addspn.py krbrelayx
+krbrelayx.py https://raw.githubusercontent.com/dirkjanm/krbrelayx/master/krbrelayx.py krbrelayx
+
+# DNS
+DNSUpdate.py https://raw.githubusercontent.com/Sagar-Jangam/DNSUpdate/master/DNSUpdate.py DNSUpdate
+Powermad.ps1 https://raw.githubusercontent.com/Kevin-Robertson/Powermad/master/Powermad.ps1 Powermad
+Invoke-DNSUpdate.ps1 https://raw.githubusercontent.com/Kevin-Robertson/Powermad/master/Invoke-DNSUpdate.ps1 Powermad
+
+# Enumeration
+PowerView.ps1 https://raw.githubusercontent.com/PowerShellEmpire/PowerTools/master/PowerView/powerview.ps1 PowerView
+windowsEnum.bat https://raw.githubusercontent.com/azmatt/windowsEnum/97aa162fded5e82ac208d258cecc033a019b578b/windowsEnum.bat windowsEnum
+Seatbelt.exe https://raw.githubusercontent.com/r3motecontrol/Ghostpack-CompiledBinaries/master/Seatbelt.exe Seatbelt
+Invoke-Seatbelt.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/PowerSharpPack/master/PowerSharpBinaries/Invoke-Seatbelt.ps1 Seatbelt
+SharpAppLocker.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpAppLocker.exe SharpAppLocker
+SharpEDRChecker.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpEDRChecker.exe SharpEDRChecker
+SharpPrinter.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpPrinter.exe SharpPrinter
+SharpReg.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpReg.exe SharpReg
+SharpWifiGrabber.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpWifiGrabber.exe SharpWifiGrabber
+Get-WLAN-Keys.ps1 https://raw.githubusercontent.com/samratashok/nishang/master/Gather/Get-WLAN-Keys.ps1 nishang
+chaps.ps1 https://raw.githubusercontent.com/cutaway-security/chaps/master/chaps.ps1 chaps
+chaps-powersploit.ps1 https://raw.githubusercontent.com/cutaway-security/chaps/master/chaps-powersploit.ps1 chaps
+git:JAWS https://github.com/411Hall/JAWS.git JAWS
+git:Seatbelt https://github.com/GhostPack/Seatbelt.git Seatbelt
+
+# Evasion-and-bypass
+Find-AVSignature.ps1 https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/master/AntivirusBypass/Find-AVSignature.ps1 PowerSploit
+Invoke-Obfuscation.zip https://github.com/danielbohannon/Invoke-Obfuscation/archive/master.zip Invoke-Obfuscation
+PsBypassCLM.exe https://raw.githubusercontent.com/padovah4ck/PSByPassCLM/93f9a248064b3c6d474894ed057afdd8a2b736f9/PSBypassCLM/PSBypassCLM/bin/x64/Debug/PsBypassCLM.exe PsBypassCLM
+HostRecon.ps1 https://raw.githubusercontent.com/dafthack/HostRecon/master/HostRecon.ps1 HostRecon
+Invoke-ReflectivePEInjection.ps1 https://raw.githubusercontent.com/BC-SECURITY/Empire/master/empire/server/data/module_source/management/Invoke-ReflectivePEInjection.ps1 Invoke-ReflectivePEInjection
+MSBuildShell.csproj https://raw.githubusercontent.com/Cn33liz/MSBuildShell/master/MSBuildShell.csproj MSBuildShell
+AmsiTrigger_x64.exe https://github.com/RythmStick/AMSITrigger/releases/download/v1.0/AmsiTrigger_x64.exe AmsiTrigger
+AmsiTrigger_x86.exe https://github.com/RythmStick/AMSITrigger/releases/download/v1.0/AmsiTrigger_x86.exe AmsiTrigger
+CheckPlease.zip https://github.com/Arvanaghi/CheckPlease/archive/refs/heads/master.zip CheckPlease
+chimera.sh https://raw.githubusercontent.com/tokyoneon/Chimera/master/chimera.sh Chimera
+PyFuscation.zip https://github.com/CBHue/PyFuscation/archive/master.zip PyFuscation
+Invoke-Sharpcradle.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/Invoke-Sharpcradle/master/Invoke-Sharpcradle.ps1 Invoke-Sharpcradle
+Invoke-BypassUAC.ps1 https://raw.githubusercontent.com/BC-SECURITY/Empire/master/empire/server/data/module_source/privesc/Invoke-BypassUAC.ps1 Invoke-BypassUAC
+SharpBypassUAC.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpBypassUAC.exe SharpBypassUAC
+Invoke-PsUACme.ps1 https://raw.githubusercontent.com/samratashok/nishang/master/Escalation/Invoke-PsUACme.ps1 nishang
+ScriptBlockLogBypass.ps1 https://gist.githubusercontent.com/cobbr/d8072d730b24fbae6ffe3aed8ca9c407/raw/fa6dcb69b1f563788af9f3a11a7b07bae34fa8ec/ScriptBlockLogBypass.ps1 ScriptBlockLogBypass
+Invoke-SharpHandler.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/PowerSharpPack/master/PowerSharpBinaries/Invoke-SharpHandler.ps1 SharpHandler
+SharpHandler.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpHandler.exe SharpHandler
+SharpCrashEventLog.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpCrashEventLog.exe SharpCrashEventLog
+Shhmon.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/Shhmon.exe Shhmon
+applocker-bypas-checker.ps1 https://raw.githubusercontent.com/sparcflow/GibsonBird/master/chapter4/applocker-bypas-checker.ps1 applocker-bypas-checker
+Invoke-BlockETW.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/Creds/master/PowershellScripts/Invoke-BlockETW.ps1 Invoke-BlockETW
+InvisibilityCloak.py https://raw.githubusercontent.com/h4wkst3r/InvisibilityCloak/main/InvisibilityCloak.py InvisibilityCloak
+git:Invoke-Obfuscation https://github.com/danielbohannon/Invoke-Obfuscation.git Invoke-Obfuscation
+
+# Exploits
+zzz_exploit.py https://raw.githubusercontent.com/3ndG4me/AutoBlue-MS17-010/master/zzz_exploit.py AutoBlue-MS17-010
+mysmb.py https://raw.githubusercontent.com/3ndG4me/AutoBlue-MS17-010/master/mysmb.py AutoBlue-MS17-010
+ms17-10.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/Creds/master/PowershellScripts/ms17-10.ps1 ms17-10
+bluekeepscan.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/Creds/master/PowershellScripts/bluekeepscan.ps1 bluekeepscan
+SpoolerScan.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/SpoolerScanner/master/SpoolerScan.ps1 SpoolerScan
+PrintSpoofer64.exe https://github.com/itm4n/PrintSpoofer/releases/download/v1.0/PrintSpoofer64.exe PrintSpoofer
+PrintSpoofer32.exe https://github.com/itm4n/PrintSpoofer/releases/download/v1.0/PrintSpoofer32.exe PrintSpoofer
+PrintSpoofer.exe https://raw.githubusercontent.com/dievus/printspoofer/master/PrintSpoofer.exe PrintSpoofer
+printspoof_interactive.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/Creds/master/obfuscatedps/printspoof_interactive.ps1 PrintSpoofer
+PetitPotam.exe https://raw.githubusercontent.com/topotam/PetitPotam/main/PetitPotam.exe PetitPotam
+PetitPotam.py https://raw.githubusercontent.com/topotam/PetitPotam/main/PetitPotam.py PetitPotam
+Invoke-Petitpotam.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/Creds/master/PowershellScripts/Invoke-Petitpotam.ps1 PetitPotam
+shadowcoerce.py https://raw.githubusercontent.com/ShutdownRepo/ShadowCoerce/main/shadowcoerce.py ShadowCoerce
+dfscoerce.py https://raw.githubusercontent.com/Wh04m1001/DFSCoerce/main/dfscoerce.py DFSCoerce
+CVE-2021-1675.py https://raw.githubusercontent.com/cube0x0/CVE-2021-1675/main/CVE-2021-1675.py CVE-2021-1675
+CVE-2021-1675.ps1 https://raw.githubusercontent.com/calebstewart/CVE-2021-1675/main/CVE-2021-1675.ps1 CVE-2021-1675
+Invoke-SharpPrintNightmare.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/PowerSharpPack/master/PowerSharpBinaries/Invoke-SharpPrintNightmare.ps1 SharpPrintNightmare
+DeployPrinterNightmare.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/DeployPrinterNightmare.exe DeployPrinterNightmare
+WebclientServiceScanner.zip https://github.com/Hackndo/WebclientServiceScanner/archive/refs/heads/master.zip WebclientServiceScanner
+zerologon_tester.py https://raw.githubusercontent.com/SecuraBV/CVE-2020-1472/master/zerologon_tester.py CVE-2020-1472
+cve-2020-1472-exploitation.py https://raw.githubusercontent.com/dirkjanm/CVE-2020-1472/master/cve-2020-1472-exploit.py CVE-2020-1472
+cve-2020-1472-restorepassword.py https://raw.githubusercontent.com/dirkjanm/CVE-2020-1472/master/restorepassword.py CVE-2020-1472
+SharpZeroLogon.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpZeroLogon.exe SharpZeroLogon
+Invoke-Zerologon.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/Creds/master/PowershellScripts/Invoke-Zerologon.ps1 Invoke-Zerologon
+dementor.py https://gist.githubusercontent.com/3xocyte/cfaf8a34f76569a8251bde65fe69dccc/raw/7c7f09ea46eff4ede636f69c00c6dfef0541cd14/dementor.py dementor
+JuicyPotato.exe https://github.com/ohpe/juicy-potato/releases/download/v0.1/JuicyPotato.exe JuicyPotato
+juicypotato64.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/Creds/master/obfuscatedps/juicypotato64.ps1 JuicyPotato
+RoguePotato.zip https://github.com/antonioCoco/RoguePotato/releases/download/1.0/RoguePotato.zip RoguePotato
+JuicyPotatoNG.zip https://github.com/antonioCoco/JuicyPotatoNG/releases/download/v1.0/JuicyPotatoNG.zip JuicyPotatoNG
+Tater.ps1 https://raw.githubusercontent.com/Kevin-Robertson/Tater/master/Tater.ps1 Tater
+Potato.exe https://raw.githubusercontent.com/foxglovesec/Potato/master/source/Potato/Potato/bin/Release/Potato.exe Potato
+SweetPotato.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SweetPotato.exe SweetPotato
+Invoke-noPac.ps1 https://gist.github.com/S3cur3Th1sSh1t/0ed2fb0b5ae485b68cbc50e89581baa6/raw/4f0ab724a11c8984c29097250b1a8263e013d183/Invoke-noPac.ps1 noPac
+sam-the-admin.zip https://github.com/WazeHell/sam-the-admin/archive/master.zip sam-the-admin
+noPac.zip https://github.com/Ridter/noPac/archive/master.zip noPac
+pachine.py https://raw.githubusercontent.com/ly4k/Pachine/main/pachine.py Pachine
+LdapRelayScan.py https://raw.githubusercontent.com/zyn3rgy/LdapRelayScan/main/LdapRelayScan.py LdapRelayScan
+SpoolFool.ps1 https://raw.githubusercontent.com/ly4k/SpoolFool/main/SpoolFool.ps1 SpoolFool
+SpoolFool.exe https://raw.githubusercontent.com/ly4k/SpoolFool/main/SpoolFool.exe SpoolFool
+SpoolFool_AddUser.dll https://raw.githubusercontent.com/ly4k/SpoolFool/main/AddUser.dll SpoolFool
+privexchange.py https://raw.githubusercontent.com/dirkjanm/PrivExchange/master/privexchange.py PrivExchange
+httpattack.py https://raw.githubusercontent.com/dirkjanm/PrivExchange/master/httpattack.py PrivExchange
+powerPriv.ps1 https://raw.githubusercontent.com/G0ldenGunSec/PowerPriv/master/powerPriv.ps1 PowerPriv
+cve-2019-1040-scan.py https://raw.githubusercontent.com/fox-it/cve-2019-1040-scanner/master/scan.py cve-2019-1040
+CVE-2022-33679.py https://raw.githubusercontent.com/Bdenneu/CVE-2022-33679/main/CVE-2022-33679.py CVE-2022-33679
+git:PetitPotam https://github.com/topotam/PetitPotam.git PetitPotam
+
+# GPO
+SharpGPOAbuse.exe https://github.com/byronkg/SharpGPOAbuse/releases/download/1.0/SharpGPOAbuse.exe SharpGPOAbuse
+PowerGPOAbuse.ps1 https://raw.githubusercontent.com/rootSySdk/PowerGPOAbuse/master/PowerGPOAbuse.ps1 PowerGPOAbuse
+Invoke-ACLPwn.ps1 https://raw.githubusercontent.com/fox-it/Invoke-ACLPwn/master/Invoke-ACLPwn.ps1 Invoke-ACLPwn
+GPRegistryPolicyParser.psm1 https://raw.githubusercontent.com/PowerShell/GPRegistryPolicyParser/master/GPRegistryPolicyParser.psm1 GPRegistryPolicyParser
+pyGPOAbuse.zip https://github.com/Hackndo/pyGPOAbuse/archive/master.zip pyGPOAbuse
+git:pyGPOAbuse https://github.com/Hackndo/pyGPOAbuse.git pyGPOAbuse
+
+# Inveigh-NTLM-relay
+Invoke-InveighRelay.ps1 https://raw.githubusercontent.com/BC-SECURITY/Empire/master/empire/server/data/module_source/lateral_movement/Invoke-InveighRelay.ps1 Inveigh
+Inveigh-Relay.ps1 https://raw.githubusercontent.com/Kevin-Robertson/Inveigh/master/Inveigh-Relay.ps1 Inveigh
+Inveigh.ps1 https://raw.githubusercontent.com/Kevin-Robertson/Inveigh/master/Inveigh.ps1 Inveigh
+Invoke-Inveigh.ps1 https://raw.githubusercontent.com/BC-SECURITY/Empire/master/empire/server/data/module_source/collection/Invoke-Inveigh.ps1 Inveigh
+Inveigh.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/Inveigh.exe Inveigh
+ntlm_theft.zip https://github.com/Greenwolf/ntlm_theft/archive/refs/heads/master.zip ntlm_theft
+lsarelayx.zip https://github.com/CCob/lsarelayx/releases/download/v0.1/lsarelayx_0.1_ALPHA.zip lsarelayx
+
+# Kerberos
+ASREPRoast.ps1 https://raw.githubusercontent.com/HarmJ0y/ASREPRoast/master/ASREPRoast.ps1 ASREPRoast
+GetUserSPNs.ps1 https://raw.githubusercontent.com/nidem/kerberoast/master/GetUserSPNs.ps1 kerberoast
+kekeo.zip https://github.com/gentilkiwi/kekeo/releases/download/2.2.0-20210810/kekeo.zip kekeo
+ticket_converter.py https://raw.githubusercontent.com/Zer1t0/ticket_converter/master/ticket_converter.py ticket_converter
+targetedKerberoast.py https://raw.githubusercontent.com/ShutdownRepo/targetedKerberoast/main/targetedKerberoast.py targetedKerberoast
+ms14-068.py https://raw.githubusercontent.com/mubix/pykek/master/ms14-068.py pykek
+Invoke-Kerberoast.ps1 https://raw.githubusercontent.com/BC-SECURITY/Empire/master/empire/server/data/module_source/credentials/Invoke-Kerberoast.ps1 Invoke-Kerberoast
+SharpRoast.exe https://raw.githubusercontent.com/r3motecontrol/Ghostpack-CompiledBinaries/master/SharpRoast.exe SharpRoast
+Rubeus.exe https://raw.githubusercontent.com/r3motecontrol/Ghostpack-CompiledBinaries/master/Rubeus.exe Rubeus
+Invoke-Rubeus.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/PowerSharpPack/master/PowerSharpBinaries/Invoke-Rubeus.ps1 Rubeus
+KrbRelay.exe https://github.com/Flangvik/SharpCollection/raw/master/NetFramework_4.7_Any/KrbRelay.exe KrbRelay
+KrbRelayUp.exe https://github.com/Flangvik/SharpCollection/raw/master/NetFramework_4.7_Any/KrbRelayUp.exe KrbRelayUp
+git:ASREPRoast https://github.com/HarmJ0y/ASREPRoast.git ASREPRoast
+git:Rubeus https://github.com/GhostPack/Rubeus.git Rubeus
+
+# LAPS-gMSA
+LAPSToolkit.ps1 https://raw.githubusercontent.com/leoloobeek/LAPSToolkit/master/LAPSToolkit.ps1 LAPSToolkit
+laps.py https://raw.githubusercontent.com/n00py/LAPSDumper/main/laps.py LAPSDumper
+SharpLAPS.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpLAPS.exe SharpLAPS
+gMSADumper.py https://raw.githubusercontent.com/micahvandeusen/gMSADumper/main/gMSADumper.py gMSADumper
+
+# Macro-and-WScript
+SharpShooter.zip https://github.com/mdsecactivebreach/SharpShooter/archive/master.zip SharpShooter
+OfficePurge.exe https://github.com/fireeye/OfficePurge/releases/download/v1.0/OfficePurge.exe OfficePurge
+macro_pack.exe https://github.com/sevagas/macro_pack/releases/download/v2.0.0/macro_pack.exe macro_pack
+DotNetToJScript.zip https://github.com/tyranid/DotNetToJScript/archive/master.zip DotNetToJScript
+file2vbscript.py https://raw.githubusercontent.com/DidierStevens/DidierStevensSuite/master/file2vbscript.py DidierStevensSuite
+oledump.py https://raw.githubusercontent.com/DidierStevens/DidierStevensSuite/master/oledump.py DidierStevensSuite
+
+# Mail-Users-Web
+MailSniper.ps1 https://raw.githubusercontent.com/dafthack/MailSniper/master/MailSniper.ps1 MailSniper
+SearchOutlook.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SearchOutlook.exe SearchOutlook
+SharpSniper.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpSniper.exe SharpSniper
+StickyNotesExtract.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/StickyNotesExtract.exe StickyNotesExtract
+Get-ChromeDump.ps1 https://raw.githubusercontent.com/BC-SECURITY/Empire/master/empire/server/data/module_source/collection/Get-ChromeDump.ps1 Get-ChromeDump
+SharpChrome.exe https://raw.githubusercontent.com/r3motecontrol/Ghostpack-CompiledBinaries/master/SharpChrome.exe SharpChrome
+Invoke-Sharpweb.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/PowerSharpPack/master/PowerSharpBinaries/Invoke-Sharpweb.ps1 Sharpweb
+SharpCookieMonster.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpCookieMonster.exe SharpCookieMonster
+ThunderFox.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/ThunderFox.exe ThunderFox
+Get-ClipboardContents.ps1 https://raw.githubusercontent.com/EmpireProject/Empire/master/data/module_source/collection/Get-ClipboardContents.ps1 Get-ClipboardContents
+Get-TimedScreenshot.ps1 https://raw.githubusercontent.com/obscuresec/PowerShell/master/Get-TimedScreenshot Get-TimedScreenshot
+Get-Keystrokes.ps1 https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/master/Exfiltration/Get-Keystrokes.ps1 Get-Keystrokes
+
+# Monitor
+# (No tools from Ansible playbook; reserved for future tools)
+
+# PasswordSpray
+DomainPasswordSpray.ps1 https://raw.githubusercontent.com/dafthack/DomainPasswordSpray/master/DomainPasswordSpray.ps1 DomainPasswordSpray
+SharpSpray.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpSpray.exe SharpSpray
+PowerSpray.ps1 https://raw.githubusercontent.com/jnqpblc/Misc-PowerShell/master/PowerSpray.ps1 PowerSpray
+SharpHose.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpHose.exe SharpHose
+
+# Persistence
+SharPersist.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharPersist.exe SharPersist
+SharpStay.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpStay.exe SharpStay
+SharpSvc.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpSvc.exe SharpSvc
+SharpTask.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpTask.exe SharpTask
+
+# Priv-Esc
+windows-exploit-suggester.py https://raw.githubusercontent.com/AonCyberLabs/Windows-Exploit-Suggester/776bd91259c081588f99b5b0b9aa54e8c5fdf5ad/windows-exploit-suggester.py windows-exploit-suggester
+wes.py https://raw.githubusercontent.com/bitsadmin/wesng/a67d7a74db7f68d6efee4b8dbd6293fc4b4bcf34/wes.py wes
+windows_privesc_check.py https://raw.githubusercontent.com/pentestmonkey/windows-privesc-check/9f304fdf317536c41120f305f62a37bdeefddfdc/windows_privesc_check.py windows-privesc-check
+windows-privesc-check2.exe https://github.com/pentestmonkey/windows-privesc-check/blob/9f304fdf317536c41120f305f62a37bdeefddfdc/windows-privesc-check2.exe windows-privesc-check
+winPEAS.bat https://github.com/carlospolop/PEASS-ng/releases/download/20230702-d6f7a6fd/winPEAS.bat winPEAS
+winPEASany_ofs.exe https://github.com/carlospolop/PEASS-ng/releases/download/20230702-d6f7a6fd/winPEASany_ofs.exe winPEAS
+winPEAS.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/winPEAS.exe winPEAS
+Invoke-winPEAS.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/PowerSharpPack/master/PowerSharpBinaries/Invoke-winPEAS.ps1 winPEAS
+PrivescCheck.ps1 https://raw.githubusercontent.com/itm4n/PrivescCheck/master/PrivescCheck.ps1 PrivescCheck
+Rattler_32.exe https://github.com/sensepost/rattler/releases/download/v1.0/Rattler_32.exe Rattler
+Rattler_x64.exe https://github.com/sensepost/rattler/releases/download/v1.0/Rattler_x64.exe Rattler
+PowerUp.ps1 https://raw.githubusercontent.com/BC-SECURITY/Empire/master/empire/server/data/module_source/privesc/PowerUp.ps1 PowerUp
+UpPower.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/Creds/master/obfuscatedps/UpPower.ps1 PowerUp
+Watson.exe https://raw.github.com/Flangvik/SharpCollection/master/SharpCollection/NetFramework_4.7_Any/Watson.exe Watson
+Invoke-SharpWatson.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/PowerSharpPack/master/PowerSharpBinaries/Invoke-SharpWatson.ps1 Watson
+SharpUp.exe https://raw.githubusercontent.com/r3motecontrol/Ghostpack-CompiledBinaries/master/SharpUp.exe SharpUp
+Invoke-SharpUp.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/PowerSharpPack/master/PowerSharpBinaries/Invoke-SharpUp.ps1 SharpUp
+git:SharpUp https://github.com/GhostPack/SharpUp.git SharpUp
+
+# Remote-connection
+powercat.ps1 https://raw.githubusercontent.com/besimorhino/powercat/master/powercat.ps1 powercat
+Invoke-PowerShellTcp.ps1 https://raw.githubusercontent.com/samratashok/nishang/master/Shells/Invoke-PowerShellTcp.ps1 nishang
+Set-RemoteWMI.ps1 https://raw.githubusercontent.com/samratashok/nishang/master/Backdoors/Set-RemoteWMI.ps1 nishang
+Set-RemotePSRemoting.ps1 https://raw.githubusercontent.com/samratashok/nishang/master/Backdoors/Set-RemotePSRemoting.ps1 nishang
+SCShell.exe https://raw.githubusercontent.com/Mr-Un1k0d3r/SCShell/master/SCShell.exe SCShell
+scshell.py https://raw.githubusercontent.com/Mr-Un1k0d3r/SCShell/master/scshell.py SCShell
+Invoke-DCOM.ps1 https://raw.githubusercontent.com/BC-SECURITY/Empire/master/empire/server/data/module_source/lateral_movement/Invoke-DCOM.ps1 Invoke-DCOM
+SharpCOM.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpCOM.exe SharpCOM
+mssql_shell.py https://raw.githubusercontent.com/Alamot/code-snippets/master/mssql/mssql_shell.py mssql_shell
+SharpExec.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpExec.exe SharpExec
+Sharp-SMBExec.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/Sharp-SMBExec.exe Sharp-SMBExec
+SharpNoPSExec.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpNoPSExec.exe SharpNoPSExec
+SharpWMI.exe https://raw.githubusercontent.com/r3motecontrol/Ghostpack-CompiledBinaries/master/SharpWMI.exe SharpWMI
+SharpRDP.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpRDP.exe SharpRDP
+SharpNamedPipePTH.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpNamedPipePTH.exe SharpNamedPipePTH
+git:SharpWMI https://github.com/GhostPack/SharpWMI.git SharpWMI
+
+# SMB-Enum
+enum4linux-ng.py https://raw.githubusercontent.com/cddmp/enum4linux-ng/master/enum4linux-ng.py enum4linux-ng
+Invoke-SMBNegotiate.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/Creds/master/PowershellScripts/Invoke-SMBNegotiate.ps1 Invoke-SMBNegotiate
+SharpShares.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpShares.exe SharpShares
+SharpDir.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpDir.exe SharpDir
+SharpSearch.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpSearch.exe SharpSearch
+SauronEye.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SauronEye.exe SauronEye
+PowerHuntShares.psm1 https://raw.githubusercontent.com/NetSPI/PowerHuntShares/main/PowerHuntShares.psm1 PowerHuntShares
+
+# SQL
+PowerUpSQL.ps1 https://raw.githubusercontent.com/NetSPI/PowerUpSQL/master/PowerUpSQL.ps1 PowerUpSQL
+esc-example.ps1 https://github.com/NetSPI/ESC/releases/download/1.0/esc-example.ps1 ESC
+esc.csproj https://github.com/NetSPI/ESC/releases/download/1.0/esc.csproj ESC
+esc.exe https://github.com/NetSPI/ESC/releases/download/1.0/esc.exe ESC
+esc.xml https://github.com/NetSPI/ESC/releases/download/1.0/esc.xml ESC
+SqlClient.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SqlClient.exe SqlClient
+
+# SwissArmyKnife
+WinPwn.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/WinPwn/master/WinPwn.ps1 WinPwn
+Offline_WinPwn.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/WinPwn/master/Offline_WinPwn.ps1 WinPwn
+SharpMapExec.exe https://raw.githubusercontent.com/mishmashclone/Flangvik-SharpCollection/master/NetFramework_4.7_Any/SharpMapExec.exe SharpMapExec
+
+# Utilities
+SysinternalsSuite.zip https://download.sysinternals.com/files/SysinternalsSuite.zip Sysinternals
+LaZagne.exe https://github.com/AlessandroZ/LaZagne/releases/download/v2.4.6/LaZagne.exe LaZagne
+QuarksPwDump.exe https://raw.githubusercontent.com/tuthimi/quarkspwdump/master/Release/QuarksPwDump.exe QuarksPwDump
+Invoke-CradleCrafter.ps1 https://raw.githubusercontent.com/danielbohannon/Invoke-CradleCrafter/master/Invoke-CradleCrafter.ps1 Invoke-CradleCrafter
+Invoke-Phant0m.ps1 https://raw.githubusercontent.com/BC-SECURITY/Empire/main/empire/server/data/module_source/management/Invoke-Phant0m.ps1 Invoke-Phant0m
+Out-CompressedDll.ps1 https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/master/ScriptModification/Out-CompressedDll.ps1 Out-CompressedDll
+Sysmon.exe https://live.sysinternals.com/Sysmon.exe Sysmon
+Certipy.exe https://github.com/ly4k/Certipy/releases/download/5.0.0/Certipy.exe Certipy
+bloodhound-cli.tar.gz https://github.com/SpecterOps/bloodhound-cli/releases/download/v0.1.0/bloodhound-cli_0.1.0_linux_x86_64.tar.gz BloodHoundCLI
+mimikatz.zip https://github.com/gentilkiwi/mimikatz/releases/download/2.2.0-20220919/mimikatz_trunk.zip mimikatz
+merlin.7z https://github.com/Ne0nd0g/merlin/releases/download/v2.2/merlinServer-Linux-x64-v2.2.7z Merlin
+impacket.tar.gz https://github.com/fortra/impacket/releases/download/impacket_0_12_0/impacket-0.12.0.tar.gz Impacket
+BloodHound-linux-x64.zip https://github.com/SpecterOps/BloodHound-Legacy/releases/download/4.3.1/BloodHound-linux-x64.zip BloodHound
+BloodHound-win32-x64.zip https://github.com/SpecterOps/BloodHound-Legacy/releases/download/4.3.1/BloodHound-win32-x64.zip BloodHound
+cme-windows-latest.zip https://github.com/byt3bl33d3r/CrackMapExec/releases/download/v5.4.0/cme-windows-latest.zip CrackMapExec
+cmedb-windows-latest.zip https://github.com/byt3bl33d3r/CrackMapExec/releases/download/v5.4.0/cmedb-windows-latest.zip CrackMapExec
+cme-ubuntu-latest.zip https://github.com/byt3bl33d3r/CrackMapExec/releases/download/v5.4.0/cme-ubuntu-latest.zip CrackMapExec
+cmedb-ubuntu-latest.zip https://github.com/byt3bl33d3r/CrackMapExec/releases/download/v5.4.0/cmedb-ubuntu-latest.zip CrackMapExec
+SharpHound.zip https://github.com/SpecterOps/SharpHound/releases/download/v2.0.0/SharpHound-v2.0.0-windows_x86.zip SharpHound
+merlinServer-Linux-x64.7z https://github.com/Ne0nd0g/merlin/releases/download/v2.2/merlinServer-Linux-x64-v2.2.7z Merlin
+git:SharpCollection https://github.com/Flangvik/SharpCollection.git SharpCollection
+git:PowerSploit https://github.com/PowerShellMafia/PowerSploit.git PowerSploit
+git:nishang https://github.com/samratashok/nishang.git nishang
+git:Covenant https://github.com/cobbr/Covenant.git Covenant
+git:Ghostpack-CompiledBinaries https://github.com/r3motecontrol/Ghostpack-CompiledBinaries.git Ghostpack-CompiledBinaries
+git:PowerSharpPack https://github.com/S3cur3Th1sSh1t/PowerSharpPack.git PowerSharpPack
+git:PSAmsi https://github.com/cobbr/PSAmsi.git PSAmsi
+git:Invoke-TheHash https://github.com/Kevin-Robertson/Invoke-TheHash.git Invoke-TheHash
+git:gpp-decrypt https://github.com/tothkr1s/gpp-decrypt.git gpp-decrypt
+git:windapsearch https://github.com/ropnop/windapsearch.git windapsearch
+git:ottertools https://github.com/otterpwn/ottertools.git ottertools
+git:NetRipper https://github.com/NytroRST/NetRipper.git NetRipper
+git:AD-Attack https://github.com/sachinn403/AD-Attack.git AD-Attack
+git:Empire https://github.com/EmpireProject/Empire.git Empire
+git:unicorn https://github.com/trustedsec/unicorn.git unicorn
+git:Responder https://github.com/lgandx/Responder.git Responder
+git:ldapdomaindump https://github.com/dirkjanm/ldapdomaindump.git ldapdomaindump
+git:PoshC2 https://github.com/nettitude/PoshC2.git PoshC2
+git:kerbrute https://github.com/ropnop/kerbrute.git kerbrute
+git:PowerTools https://github.com/PowerShellEmpire/PowerTools.git PowerTools
+git:quarkspwdump https://github.com/quarkslab/quarkspwdump.git quarkspwdump
+git:WMIExec https://github.com/WKL-Sec/WMIExec.git WMIExec
+git:SharpGen https://github.com/cobbr/SharpGen.git SharpGen
+git:Limelighter https://github.com/Tylous/Limelighter.git Limelighter
+
+# AD-Attack
+git:AD-Attack https://github.com/sachinn403/AD-Attack.git AD-Attack
+git:Empire https://github.com/EmpireProject/Empire.git Empire
+git:Covenant https://github.com/cobbr/Covenant.git Covenant
+git:PoshC2 https://github.com/nettitude/PoshC2.git PoshC2
+Merlin https://github.com/Ne0nd0g/merlin/releases/latest/download/merlin.7z Merlin
+CrackMapExec https://github.com/byt3bl33d3r/CrackMapExec/releases/latest/download/cme-ubuntu-latest.zip CrackMapExec
+git:Koadic https://github.com/zerosum0x0/koadic.git Koadic
+git:CrackMapExec-Modules https://github.com/mpgn/CrackMapExec.git CrackMapExec-Modules
+# SharpCollection
+git:SharpCollection https://github.com/Flangvik/SharpCollection.git SharpCollection
+git:Ghostpack https://github.com/r3motecontrol/Ghostpack-CompiledBinaries.git Ghostpack
+git:PowerSharpPack https://github.com/S3cur3Th1sSh1t/PowerSharpPack.git PowerSharpPack
+git:SharpDump https://github.com/GhostPack/SharpDump.git SharpDump
+git:SharpUp https://github.com/GhostPack/SharpUp.git SharpUp
+git:SharpWMI https://github.com/GhostPack/SharpWMI.git SharpWMI
+git:Lockless https://github.com/GhostPack/Lockless.git Lockless
+git:SharpDPAPI https://github.com/GhostPack/SharpDPAPI.git SharpDPAPI
+git:SharpGen https://github.com/cobbr/SharpGen.git SharpGen
+git:SharpMad https://github.com/b4rtik/SharpMad.git SharpMad
+# Obfuscation
+git:Invoke-Obfuscation https://github.com/danielbohannon/Invoke-Obfuscation.git Invoke-Obfuscation
+git:PSAmsi https://github.com/cobbr/PSAmsi.git PSAmsi
+# Sysinternals
+SysinternalsSuite https://download.sysinternals.com/files/SysinternalsSuite.zip Sysinternals
+ADFind https://download.sysinternals.com/files/ADExplorer.zip ADFind
+# Mimikatz
+mimikatz https://github.com/gentilkiwi/mimikatz/releases/download/2.2.0-20210810-2/mimikatz_trunk.zip mimikatz
+# Enumeration
+git:JAWS https://github.com/411Hall/JAWS.git JAWS
+git:ldapdomaindump https://github.com/dirkjanm/ldapdomaindump.git ldapdomaindump
+git:ADRecon https://github.com/adrecon/ADRecon.git ADRecon
+git:Seatbelt https://github.com/GhostPack/Seatbelt.git Seatbelt
+BloodHoundCLI https://github.com/SpecterOps/bloodhound-cli/releases/latest/download/bloodhound-cli.tar.gz BloodHoundCLI
+BloodHound https://github.com/SpecterOps/BloodHound-Legacy/releases/latest/download/BloodHound-linux-x64.zip BloodHound
+SharpHound https://github.com/SpecterOps/SharpHound/releases/latest/download/SharpHound_v.*windows_x86.zip SharpHound
+git:ADExplorerSnapshot https://github.com/cube0x0/ADExplorerSnapshot.git ADExplorerSnapshot
+git:PowerView https://github.com/PowerShellMafia/PowerView.git PowerView
+# Credentials-collection
+git:spraykatz https://github.com/aas-n/spraykatz.git spraykatz
+git:KeeThief https://github.com/GhostPack/KeeThief.git KeeThief
+git:SafetyKatz https://github.com/GhostPack/SafetyKatz.git SafetyKatz
+git:quarkspwdump https://github.com/quarkslab/quarkspwdump.git quarkspwdump
+# Kerberos
+git:kerbrute https://github.com/ropnop/kerbrute.git kerbrute
+git:ASREPRoast https://github.com/HarmJ0y/ASREPRoast.git ASREPRoast
+git:Rubeus https://github.com/GhostPack/Rubeus.git Rubeus
+git:Kerberoast https://github.com/nidem/kerberoast.git Kerberoast
+# Utilities
+git:nishang https://github.com/samratashok/nishang.git nishang
+git:PowerSploit https://github.com/PowerShellMafia/PowerSploit.git PowerSploit
+git:PowerTools https://github.com/PowerShellEmpire/PowerTools.git PowerTools
+git:Limelighter https://github.com/Tylous/Limelighter.git Limelighter
+Impacket https://github.com/fortra/impacket/releases/latest/download/impacket.tar.gz Impacket
+PingCastle https://www.semperis.com/purple-knight/purple-knight.zip PurpleKnight
+git:ADTimeline https://github.com/ANSSI-FR/ADTimeline.git ADTimeline
+# Exploits
+git:unicorn https://github.com/trustedsec/unicorn.git unicorn
+git:NetRipper https://github.com/NytroRST/NetRipper.git NetRipper
+# GPO
+git:pyGPOAbuse https://github.com/Hackndo/pyGPOAbuse.git pyGPOAbuse
+# Inveigh-NTLM-relay
+git:Responder https://github.com/lgandx/Responder.git Responder
+git:Inveigh https://github.com/Kevin-Robertson/Inveigh.git Inveigh
+# Remote-connection
+git:WMIExec https://github.com/WKL-Sec/WMIExec.git WMIExec
+# ADCS
+Certipy https://github.com/ly4k/Certipy/releases/latest/download/Certipy.exe Certipy
+# AD-Module
+git:ADModule https://github.com/samratashok/ADModule.git ADModule

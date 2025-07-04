@@ -1,0 +1,17 @@
+ASREPRoast.ps1 https://raw.githubusercontent.com/HarmJ0y/ASREPRoast/master/ASREPRoast.ps1 ASREPRoast
+GetUserSPNs.ps1 https://raw.githubusercontent.com/nidem/kerberoast/master/GetUserSPNs.ps1 kerberoast
+kekeo.zip https://github.com/gentilkiwi/kekeo/releases/download/2.2.0-20210810/kekeo.zip kekeo
+ticket_converter.py https://raw.githubusercontent.com/Zer1t0/ticket_converter/master/ticket_converter.py ticket_converter
+targetedKerberoast.py https://raw.githubusercontent.com/ShutdownRepo/targetedKerberoast/main/targetedKerberoast.py targetedKerberoast
+ms14-068.py https://raw.githubusercontent.com/mubix/pykek/master/ms14-068.py pykek
+Invoke-Kerberoast.ps1 https://raw.githubusercontent.com/BC-SECURITY/Empire/master/empire/server/data/module_source/credentials/Invoke-Kerberoast.ps1 Invoke-Kerberoast
+SharpRoast.exe https://raw.githubusercontent.com/r3motecontrol/Ghostpack-CompiledBinaries/master/SharpRoast.exe SharpRoast
+Rubeus.exe https://raw.githubusercontent.com/r3motecontrol/Ghostpack-CompiledBinaries/master/Rubeus.exe Rubeus
+Invoke-Rubeus.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/PowerSharpPack/master/PowerSharpBinaries/Invoke-Rubeus.ps1 Rubeus
+KrbRelay.exe https://github.com/Flangvik/SharpCollection/raw/master/NetFramework_4.7_Any/KrbRelay.exe KrbRelay
+KrbRelayUp.exe https://github.com/Flangvik/SharpCollection/raw/master/NetFramework_4.7_Any/KrbRelayUp.exe KrbRelayUp
+git:ASREPRoast https://github.com/HarmJ0y/ASREPRoast.git ASREPRoast
+git:Rubeus https://github.com/GhostPack/Rubeus.git Rubeus
+git:kerbrute https://github.com/ropnop/kerbrute.git kerbrute
+git:ASREPRoast https://github.com/HarmJ0y/ASREPRoast.git ASREPRoast
+git:Rubeus https://github.com/GhostPack/Rubeus.git Rubeus

@@ -1,0 +1,6 @@
+PowerUpSQL.ps1 https://raw.githubusercontent.com/NetSPI/PowerUpSQL/master/PowerUpSQL.ps1 PowerUpSQL
+esc-example.ps1 https://github.com/NetSPI/ESC/releases/download/1.0/esc-example.ps1 ESC
+esc.csproj https://github.com/NetSPI/ESC/releases/download/1.0/esc.csproj ESC
+esc.exe https://github.com/NetSPI/ESC/releases/download/1.0/esc.exe ESC
+esc.xml https://github.com/NetSPI/ESC/releases/download/1.0/esc.xml ESC
+SqlClient.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SqlClient.exe SqlClient

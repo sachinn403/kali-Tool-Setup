@@ -1,0 +1,7 @@
+enum4linux-ng.py https://raw.githubusercontent.com/cddmp/enum4linux-ng/master/enum4linux-ng.py enum4linux-ng
+Invoke-SMBNegotiate.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/Creds/master/PowershellScripts/Invoke-SMBNegotiate.ps1 Invoke-SMBNegotiate
+SharpShares.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpShares.exe SharpShares
+SharpDir.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpDir.exe SharpDir
+SharpSearch.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpSearch.exe SharpSearch
+SauronEye.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SauronEye.exe SauronEye
+PowerHuntShares.psm1 https://raw.githubusercontent.com/NetSPI/PowerHuntShares/main/PowerHuntShares.psm1 PowerHuntShares

@@ -1,0 +1,17 @@
+SharpHound.exe https://raw.githubusercontent.com/BloodHoundAD/BloodHound/master/Collectors/SharpHound.exe SharpHound
+SharpHound.ps1 https://raw.githubusercontent.com/BloodHoundAD/BloodHound/master/Collectors/SharpHound.ps1 SharpHound
+Invoke-SharpHound4.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/PowerSharpPack/master/PowerSharpBinaries/Invoke-SharpHound4.ps1 SharpHound
+ADRecon.ps1 https://raw.githubusercontent.com/adrecon/ADRecon/master/ADRecon.ps1 ADRecon
+Grouper2.exe https://github.com/Flangvik/SharpCollection/raw/master/NetFramework_4.7_Any/Grouper2.exe Grouper2
+Invoke-Grouper2.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/PowerSharpPack/master/PowerSharpBinaries/Invoke-Grouper2.ps1 Grouper2
+Group3r.exe https://github.com/Flangvik/SharpCollection/raw/master/NetFramework_4.7_Any/Group3r.exe Group3r
+SharpView.exe https://github.com/tevora-threat/SharpView/raw/master/Compiled/SharpView.exe SharpView
+PowerView.ps1 https://raw.githubusercontent.com/BC-SECURITY/Empire/master/empire/server/data/module_source/situational_awareness/network/powerview.ps1 PowerView
+ADSearch.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/ADSearch.exe ADSearch
+ADHuntUser.exe https://raw.githubusercontent.com/Mr-Un1k0d3r/ADHuntTool/main/ADHuntUser.exe ADHuntTool
+ADHuntTool.exe https://raw.githubusercontent.com/Mr-Un1k0d3r/ADHuntTool/main/ADHuntTool.exe ADHuntTool
+ADCollector.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/ADCollector.exe ADCollector
+ADFSDump.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/ADFSDump.exe ADFSDump
+TruffleSnout.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/TruffleSnout.exe TruffleSnout
+git:ADRecon https://github.com/adrecon/ADRecon.git ADRecon
+git:BloodHound https://github.com/BloodHoundAD/BloodHound.git BloodHound

@@ -1,0 +1,7 @@
+SharpGPOAbuse.exe https://github.com/byronkg/SharpGPOAbuse/releases/download/1.0/SharpGPOAbuse.exe SharpGPOAbuse
+PowerGPOAbuse.ps1 https://raw.githubusercontent.com/rootSySdk/PowerGPOAbuse/master/PowerGPOAbuse.ps1 PowerGPOAbuse
+Invoke-ACLPwn.ps1 https://raw.githubusercontent.com/fox-it/Invoke-ACLPwn/master/Invoke-ACLPwn.ps1 Invoke-ACLPwn
+GPRegistryPolicyParser.psm1 https://raw.githubusercontent.com/PowerShell/GPRegistryPolicyParser/master/GPRegistryPolicyParser.psm1 GPRegistryPolicyParser
+pyGPOAbuse.zip https://github.com/Hackndo/pyGPOAbuse/archive/master.zip pyGPOAbuse
+git:pyGPOAbuse https://github.com/Hackndo/pyGPOAbuse.git pyGPOAbuse
+git:pyGPOAbuse https://github.com/Hackndo/pyGPOAbuse.git pyGPOAbuse

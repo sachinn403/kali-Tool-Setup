@@ -1,0 +1,12 @@
+busybox https://busybox.net/downloads/binaries/1.35.0-defconfig-multiarch/busybox-x86_64 busybox
+socat http://www.dest-unreach.org/socat/download/socat*.tar.gz socat
+chkrootkit http://www.chkrootkit.org/download/chkrootkit*.tar.gz chkrootkit
+rkhunter https://sourceforge.net/projects/rkhunter/files/rkhunter/1.4.6/rkhunter-1.4.6.tar.gz rkhunter
+nc https://sourceforge.net/projects/nc110/files/nc110.tgz/download nc
+git:proxychains-ng https://github.com/rofl0r/proxychains-ng.git proxychains-ng
+git:Chisel https://github.com/jpillora/chisel.git Chisel
+git:SSHuttle https://github.com/sshuttle/sshuttle.git SSHuttle
+Wget https://ftp.gnu.org/gnu/wget/wget*.tar.gz Wget
+Curl https://curl.se/download/curl*.tar.gz Curl
+Dropbear https://matt.ucc.asn.au/dropbear/releases/dropbear*.tar.bz2 Dropbear
+Ngrok https://github.com/ngrok/ngrok/releases/latest/download/ngrok*.tar.gz Ngrok

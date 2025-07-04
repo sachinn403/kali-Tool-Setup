@@ -1,0 +1,4 @@
+LAPSToolkit.ps1 https://raw.githubusercontent.com/leoloobeek/LAPSToolkit/master/LAPSToolkit.ps1 LAPSToolkit
+laps.py https://raw.githubusercontent.com/n00py/LAPSDumper/main/laps.py LAPSDumper
+SharpLAPS.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpLAPS.exe SharpLAPS
+gMSADumper.py https://raw.githubusercontent.com/micahvandeusen/gMSADumper/main/gMSADumper.py gMSADumper

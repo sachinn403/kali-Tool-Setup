@@ -1,0 +1,6 @@
+rbcd.py https://raw.githubusercontent.com/tothi/rbcd-attack/master/rbcd.py rbcd
+rbcd_relay.py https://gist.githubusercontent.com/3xocyte/4ea8e15332e5008581febdb502d0139c/raw/b3010b795ac55f8f6c72692256a5150884b058fb/rbcd_relay.py rbcd
+printerbug.py https://raw.githubusercontent.com/dirkjanm/krbrelayx/master/printerbug.py krbrelayx
+dnstool.py https://raw.githubusercontent.com/dirkjanm/krbrelayx/master/dnstool.py krbrelayx
+addspn.py https://raw.githubusercontent.com/dirkjanm/krbrelayx/master/addspn.py krbrelayx
+krbrelayx.py https://raw.githubusercontent.com/dirkjanm/krbrelayx/master/krbrelayx.py krbrelayx

@@ -1,0 +1,6 @@
+SharpShooter.zip https://github.com/mdsecactivebreach/SharpShooter/archive/master.zip SharpShooter
+OfficePurge.exe https://github.com/fireeye/OfficePurge/releases/download/v1.0/OfficePurge.exe OfficePurge
+macro_pack.exe https://github.com/sevagas/macro_pack/releases/download/v2.0.0/macro_pack.exe macro_pack
+DotNetToJScript.zip https://github.com/tyranid/DotNetToJScript/archive/master.zip DotNetToJScript
+file2vbscript.py https://raw.githubusercontent.com/DidierStevens/DidierStevensSuite/master/file2vbscript.py DidierStevensSuite
+oledump.py https://raw.githubusercontent.com/DidierStevens/DidierStevensSuite/master/oledump.py DidierStevensSuite

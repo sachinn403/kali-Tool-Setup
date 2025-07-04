@@ -1,0 +1,3 @@
+DNSUpdate.py https://raw.githubusercontent.com/Sagar-Jangam/DNSUpdate/master/DNSUpdate.py DNSUpdate
+Powermad.ps1 https://raw.githubusercontent.com/Kevin-Robertson/Powermad/master/Powermad.ps1 Powermad
+Invoke-DNSUpdate.ps1 https://raw.githubusercontent.com/Kevin-Robertson/Powermad/master/Invoke-DNSUpdate.ps1 Powermad

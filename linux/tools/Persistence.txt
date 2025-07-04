@@ -1,0 +1,3 @@
+git:Pupy https://github.com/n1nj4sec/pupy.git Pupy
+git:Cronjob-Persistence https://github.com/pentestmonkey/linux-cron-persistence.git Cronjob-Persistence
+git:Rootkits https://github.com/nathan818fr/rootkit.git Rootkits

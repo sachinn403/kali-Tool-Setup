@@ -1,0 +1,6 @@
+git:Windows-Exploit-Suggester https://github.com/AonCyberLabs/Windows-Exploit-Suggester.git Windows-Exploit-Suggester
+git:SessionGopher https://github.com/Arvanaghi/SessionGopher.git SessionGopher
+git:LaZagne https://github.com/AlessandroZ/LaZagne.git LaZagne
+git:Hashcat https://github.com/hashcat/hashcat.git Hashcat
+git:John-the-Ripper https://github.com/openwall/john.git John-the-Ripper
+git:Hydra https://github.com/vanhauser-thc/thc-hydra.git Hydra

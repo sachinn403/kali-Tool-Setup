@@ -1,0 +1,5 @@
+git:Hashcat https://github.com/hashcat/hashcat.git Hashcat
+git:John-the-Ripper https://github.com/openwall/john.git John-the-Ripper
+git:Hydra https://github.com/vanhauser-thc/thc-hydra.git Hydra
+GDB https://ftp.gnu.org/gnu/gdb/gdb*.tar.gz GDB
+Strace https://github.com/strace/strace/releases/latest/download/strace*.tar.gz Strace

@@ -1,0 +1,7 @@
+git:AD-Attack https://github.com/sachinn403/AD-Attack.git AD-Attack
+git:Empire https://github.com/EmpireProject/Empire.git Empire
+git:Covenant https://github.com/cobbr/Covenant.git Covenant
+git:PoshC2 https://github.com/nettitude/PoshC2.git PoshC2
+Merlin https://github.com/Ne0nd0g/merlin/releases/latest/download/merlin.7z Merlin
+CrackMapExec https://github.com/byt3bl33d3r/CrackMapExec/releases/latest/download/cme-ubuntu-latest.zip CrackMapExec
+git:Koadic https://github.com/offsecginger/koadic.git Koadic

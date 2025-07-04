@@ -1,0 +1,15 @@
+git:enum4linux-ng https://github.com/cddmp/enum4linux-ng.git enum4linux-ng
+git:pspy https://github.com/DominicBreuker/pspy.git pspy
+lscpu https://github.com/util-linux/util-linux/releases/latest/download/util-linux*.tar.gz lscpu
+lsof https://github.com/lsof-org/lsof/releases/latest/download/lsof*.tar.gz lsof
+git:nmap-vulners https://github.com/vulnersCom/nmap-vulners.git nmap-vulners
+git:linux-smart-enumeration https://github.com/diego-treitos/linux-smart-enumeration.git linux-smart-enumeration
+git:Procmon https://github.com/microsoft/ProcMon-for-Linux.git Procmon
+git:VulnScan https://github.com/scipag/vulscan.git VulnScan
+git:Lynis https://github.com/CISOfy/lynis.git Lynis
+git:LinEnum https://github.com/rebootuser/LinEnum.git LinEnum
+git:Pspy https://github.com/DominicBreuker/pspy.git Pspy
+git:Bashark https://github.com/redcode-labs/Bashark.git Bashark
+git:LinEnum https://github.com/rebootuser/LinEnum.git LinEnum
+git:Linux-Smart-Enumeration https://github.com/diego-treitos/linux-smart-enumeration.git Linux-Smart-Enumeration
+git:LES https://github.com/The-Z-Labs/linux-exploit-suggester.git LES

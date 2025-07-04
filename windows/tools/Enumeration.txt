@@ -1,0 +1,4 @@
+git:WinPEAS https://github.com/peass-ng/PEASS-ng.git WinPEAS
+git:PrivescCheck https://github.com/itm4n/PrivescCheck.git PrivescCheck
+git:Seatbelt https://github.com/GhostPack/Seatbelt.git Seatbelt
+git:SharpUp https://github.com/GhostPack/SharpUp.git SharpUp

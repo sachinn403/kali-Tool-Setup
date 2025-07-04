@@ -1,0 +1,4 @@
+SharPersist.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharPersist.exe SharPersist
+SharpStay.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpStay.exe SharpStay
+SharpSvc.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpSvc.exe SharpSvc
+SharpTask.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpTask.exe SharpTask

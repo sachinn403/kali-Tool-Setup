@@ -1,0 +1,14 @@
+git:LinPEAS https://github.com/peass-ng/PEASS-ng.git LinPEAS
+git:Linux-Exploit-Suggester https://github.com/mzet-/linux-exploit-suggester.git Linux-Exploit-Suggester
+git:LinEnum https://github.com/rebootuser/LinEnum.git LinEnum
+git:unix-privesc-check https://github.com/pentestmonkey/unix-privesc-check.git unix-privesc-check
+git:SUID3NUM https://github.com/Anon-Exploiter/SUID3NUM.git SUID3NUM
+git:GTFOBins https://github.com/GTFOBins/GTFOBins.git GTFOBins
+git:PEASS https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite.git PEASS
+git:Checksec https://github.com/slimm609/checksec.sh.git Checksec
+git:Linux-Exploit-Suggester-2 https://github.com/jondonas/linux-exploit-suggester-2.git Linux-Exploit-Suggester-2
+git:LES https://github.com/The-Z-Labs/linux-exploit-suggester.git LES
+git:Dirty-COW https://github.com/dirtycow/dirtycow.github.io.git Dirty-COW
+git:LinuxPrivChecker https://github.com/sleventyeleven/linuxprivchecker.git LinuxPrivChecker
+git:PEASS-ng https://github.com/peass-ng/PEASS-ng.git PEASS-ng
+git:Sudo-Killer https://github.com/TH3xACE/SUDO_KILLER.git Sudo-Killer

@@ -1,0 +1,3 @@
+WinPwn.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/WinPwn/master/WinPwn.ps1 WinPwn
+Offline_WinPwn.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/WinPwn/master/Offline_WinPwn.ps1 WinPwn
+SharpMapExec.exe https://raw.githubusercontent.com/mishmashclone/Flangvik-SharpCollection/master/NetFramework_4.7_Any/SharpMapExec.exe SharpMapExec

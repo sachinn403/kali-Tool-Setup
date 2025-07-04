@@ -1,0 +1,2 @@
+Invoke-DCSync.ps1 https://raw.githubusercontent.com/BC-SECURITY/Empire/master/empire/server/data/module_source/credentials/Invoke-DCSync.ps1 Invoke-DCSync
+git:Invoke-DCSync https://github.com/pentestfactory/Invoke-DCSync.git Invoke-DCSync

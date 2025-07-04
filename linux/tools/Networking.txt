@@ -1,0 +1,4 @@
+Nmap https://nmap.org/dist/nmap*.tar.bz2 Nmap
+git:Masscan https://github.com/robertdavidgraham/masscan.git Masscan
+Wireshark https://www.wireshark.org/download/src/wireshark*.tar.xz Wireshark
+git:Hping3 https://github.com/antirez/hping.git Hping3

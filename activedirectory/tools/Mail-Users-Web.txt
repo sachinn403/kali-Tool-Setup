@@ -1,0 +1,12 @@
+MailSniper.ps1 https://raw.githubusercontent.com/dafthack/MailSniper/master/MailSniper.ps1 MailSniper
+SearchOutlook.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SearchOutlook.exe SearchOutlook
+SharpSniper.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpSniper.exe SharpSniper
+StickyNotesExtract.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/StickyNotesExtract.exe StickyNotesExtract
+Get-ChromeDump.ps1 https://raw.githubusercontent.com/BC-SECURITY/Empire/master/empire/server/data/module_source/collection/Get-ChromeDump.ps1 Get-ChromeDump
+SharpChrome.exe https://raw.githubusercontent.com/r3motecontrol/Ghostpack-CompiledBinaries/master/SharpChrome.exe SharpChrome
+Invoke-Sharpweb.ps1 https://raw.githubusercontent.com/S3cur3Th1sSh1t/PowerSharpPack/master/PowerSharpBinaries/Invoke-Sharpweb.ps1 Sharpweb
+SharpCookieMonster.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpCookieMonster.exe SharpCookieMonster
+ThunderFox.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/ThunderFox.exe ThunderFox
+Get-ClipboardContents.ps1 https://raw.githubusercontent.com/EmpireProject/Empire/master/data/module_source/collection/Get-ClipboardContents.ps1 Get-ClipboardContents
+Get-TimedScreenshot.ps1 https://raw.githubusercontent.com/obscuresec/PowerShell/master/Get-TimedScreenshot Get-TimedScreenshot
+Get-Keystrokes.ps1 https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/master/Exfiltration/Get-Keystrokes.ps1 Get-Keystrokes

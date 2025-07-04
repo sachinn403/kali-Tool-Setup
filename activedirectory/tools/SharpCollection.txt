@@ -1,0 +1,9 @@
+git:SharpCollection https://github.com/Flangvik/SharpCollection.git SharpCollection
+git:Ghostpack https://github.com/r3motecontrol/Ghostpack-CompiledBinaries.git Ghostpack
+git:PowerSharpPack https://github.com/S3cur3Th1sSh1t/PowerSharpPack.git PowerSharpPack
+git:SharpDump https://github.com/GhostPack/SharpDump.git SharpDump
+git:SharpUp https://github.com/GhostPack/SharpUp.git SharpUp
+git:SharpWMI https://github.com/GhostPack/SharpWMI.git SharpWMI
+git:Lockless https://github.com/GhostPack/Lockless.git Lockless
+git:SharpDPAPI https://github.com/GhostPack/SharpDPAPI.git SharpDPAPI
+git:SharpGen https://github.com/cobbr/SharpGen.git SharpGen

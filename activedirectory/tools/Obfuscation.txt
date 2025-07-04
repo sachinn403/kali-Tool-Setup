@@ -1,0 +1,2 @@
+git:Invoke-Obfuscation https://github.com/danielbohannon/Invoke-Obfuscation.git Invoke-Obfuscation
+git:PSAmsi https://github.com/cobbr/PSAmsi.git PSAmsi

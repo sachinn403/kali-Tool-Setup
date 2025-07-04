@@ -1,0 +1,5 @@
+ADACLScan.ps1 https://raw.githubusercontent.com/canix1/ADACLScanner/master/ADACLScan.ps1 ADACLScanner
+ACLight.zip https://github.com/cyberark/ACLight/archive/master.zip ACLight
+ACLight2.ps1 https://raw.githubusercontent.com/cyberark/ACLight/master/ACLight2.ps1 ACLight
+Add-RemoteRegBackdoor.ps1 https://raw.githubusercontent.com/HarmJ0y/DAMP/master/Add-RemoteRegBackdoor.ps1 DAMP
+RemoteHashRetrieval.ps1 https://raw.githubusercontent.com/HarmJ0y/DAMP/master/RemoteHashRetrieval.ps1 DAMP

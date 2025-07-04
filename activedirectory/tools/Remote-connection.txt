@@ -1,0 +1,17 @@
+powercat.ps1 https://raw.githubusercontent.com/besimorhino/powercat/master/powercat.ps1 powercat
+Invoke-PowerShellTcp.ps1 https://raw.githubusercontent.com/samratashok/nishang/master/Shells/Invoke-PowerShellTcp.ps1 nishang
+Set-RemoteWMI.ps1 https://raw.githubusercontent.com/samratashok/nishang/master/Backdoors/Set-RemoteWMI.ps1 nishang
+Set-RemotePSRemoting.ps1 https://raw.githubusercontent.com/samratashok/nishang/master/Backdoors/Set-RemotePSRemoting.ps1 nishang
+SCShell.exe https://raw.githubusercontent.com/Mr-Un1k0d3r/SCShell/master/SCShell.exe SCShell
+scshell.py https://raw.githubusercontent.com/Mr-Un1k0d3r/SCShell/master/scshell.py SCShell
+Invoke-DCOM.ps1 https://raw.githubusercontent.com/BC-SECURITY/Empire/master/empire/server/data/module_source/lateral_movement/Invoke-DCOM.ps1 Invoke-DCOM
+SharpCOM.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpCOM.exe SharpCOM
+mssql_shell.py https://raw.githubusercontent.com/Alamot/code-snippets/master/mssql/mssql_shell.py mssql_shell
+SharpExec.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpExec.exe SharpExec
+Sharp-SMBExec.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/Sharp-SMBExec.exe Sharp-SMBExec
+SharpNoPSExec.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpNoPSExec.exe SharpNoPSExec
+SharpWMI.exe https://raw.githubusercontent.com/r3motecontrol/Ghostpack-CompiledBinaries/master/SharpWMI.exe SharpWMI
+SharpRDP.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpRDP.exe SharpRDP
+SharpNamedPipePTH.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/SharpNamedPipePTH.exe SharpNamedPipePTH
+git:SharpWMI https://github.com/GhostPack/SharpWMI.git SharpWMI
+git:WMIExec https://github.com/WKL-Sec/WMIExec.git WMIExec

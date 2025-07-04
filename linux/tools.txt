@@ -1,0 +1,47 @@
+# Privilege-Escalation
+git:LinPEAS https://github.com/peass-ng/PEASS-ng.git LinPEAS
+git:Linux-Exploit-Suggester https://github.com/mzet-/linux-exploit-suggester.git Linux-Exploit-Suggester
+git:LinEnum https://github.com/rebootuser/LinEnum.git LinEnum
+git:unix-privesc-check https://github.com/pentestmonkey/unix-privesc-check.git unix-privesc-check
+git:SUID3NUM https://github.com/Anon-Exploiter/SUID3NUM.git SUID3NUM
+git:GTFOBins https://github.com/GTFOBins/GTFOBins.git GTFOBins
+git:PEASS https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite.git PEASS
+git:Checksec https://github.com/slimm609/checksec.sh.git Checksec
+# Enumeration
+git:enum4linux-ng https://github.com/cddmp/enum4linux-ng.git enum4linux-ng
+git:pspy https://github.com/DominicBreuker/pspy.git pspy
+lscpu https://github.com/util-linux/util-linux/releases/latest/download/util-linux*.tar.gz lscpu
+lsof https://github.com/lsof-org/lsof/releases/latest/download/lsof*.tar.gz lsof
+git:nmap-vulners https://github.com/vulnersCom/nmap-vulners.git nmap-vulners
+git:linux-smart-enumeration https://github.com/diego-treitos/linux-smart-enumeration.git linux-smart-enumeration
+git:Procmon https://github.com/WildCard65/Procmon-for-Linux.git Procmon
+# Binaries
+busybox https://busybox.net/downloads/binaries/1.35.0-defconfig-multiarch/busybox-x86_64 busybox
+socat http://www.dest-unreach.org/socat/download/socat*.tar.gz socat
+chkrootkit http://www.chkrootkit.org/download/chkrootkit*.tar.gz chkrootkit
+rkhunter https://sourceforge.net/projects/rkhunter/files/rkhunter/1.4.6/rkhunter-1.4.6.tar.gz rkhunter
+nc https://sourceforge.net/projects/nc110/files/nc110.tgz/download nc
+git:proxychains-ng https://github.com/rofl0r/proxychains-ng.git proxychains-ng
+git:Chisel https://github.com/jpillora/chisel.git Chisel
+git:SSHuttle https://github.com/sshuttle/sshuttle.git SSHuttle
+Wget https://ftp.gnu.org/gnu/wget/wget*.tar.gz Wget
+Curl https://curl.se/download/curl*.tar.gz Curl
+# Exploitation
+git:Metasploit-Framework https://github.com/rapid7/metasploit-framework.git Metasploit-Framework
+git:Exploit-DB https://github.com/offensive-security/exploitdb.git Exploit-DB
+git:Kernelpop https://github.com/spencerdodd/kernelpop.git Kernelpop
+# Networking
+Nmap https://nmap.org/dist/nmap*.tar.bz2 Nmap
+git:Masscan https://github.com/robertdavidgraham/masscan.git Masscan
+Wireshark https://www.wireshark.org/download/src/wireshark*.tar.xz Wireshark
+git:Hping3 https://github.com/antirez/hping.git Hping3
+# Persistence
+git:Pupy https://github.com/n1nj4sec/pupy.git Pupy
+git:Cronjob-Persistence https://github.com/pentestmonkey/linux-cron-persistence.git Cronjob-Persistence
+git:Rootkits https://github.com/nathan818fr/rootkit.git Rootkits
+# Utilities
+git:Hashcat https://github.com/hashcat/hashcat.git Hashcat
+git:John-the-Ripper https://github.com/openwall/john.git John-the-Ripper
+git:Hydra https://github.com/vanhauser-thc/thc-hydra.git Hydra
+GDB https://ftp.gnu.org/gnu/gdb/gdb*.tar.gz GDB
+Strace https://github.com/strace/strace/releases/latest/download/strace*.tar.gz Strace

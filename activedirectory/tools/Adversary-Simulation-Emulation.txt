@@ -1,0 +1,1 @@
+PurpleSharp.exe https://raw.githubusercontent.com/Flangvik/SharpCollection/master/NetFramework_4.7_Any/PurpleSharp.exe PurpleSharp

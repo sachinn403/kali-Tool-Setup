@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # ─────────────────────────────────────────────────────
-# GO-BASED TOOLS INSTALLER (Hardened)
+# GO-BASED TOOLS INSTALLER (Refined)
 # Author: Sachin Nishad
-# Installs tools to: ~/bin
+# Installs tools to: ~/bin (User-space)
 # ─────────────────────────────────────────────────────
 
 set -euo pipefail
@@ -12,7 +12,7 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 TOOL_FILE="$SCRIPT_DIR/tools/tools.txt"
 TOOLS_DIR="$HOME/bin"
 TEMP_GOPATH="/tmp/go-installer-build"
-LOGFILE="/tmp/install.log"
+LOGFILE="/tmp/go_based_tools_install_$(date +%F_%H-%M-%S).log"
 
 # Redirect all stdout/stderr to logfile
 exec > >(tee -a "$LOGFILE") 2>&1
@@ -60,18 +60,23 @@ export PATH="$PATH:$GOPATH/bin"
 # Step 4: Install Tools
 # ─────────────────────────────────────────────────────
 echo
-echo "[*] Installing tools from go-tools.txt..."
+echo "[*] Installing tools from tools.txt..."
 
 mapfile -t LINKS < <(grep -vE '^\s*#|^\s*$' "$TOOL_FILE")
 
 for tool in "${LINKS[@]}"; do
   echo "→ Installing: $tool"
-  
+
+  if [[ "$tool" != *"/"* ]]; then
+    echo "   ✗ Invalid go install path: $tool (skipping)"
+    continue
+  fi
+
   if go install "$tool@latest"; then
     echo "   ↳ go install succeeded."
 
-    # Find newly created binary (any file inside $GOPATH/bin after install)
-    latest_bin=$(find "$GOPATH/bin" -type f -executable -printf "%T@ %p\n" | sort -n | tail -1 | cut -d' ' -f2-)
+    # Find the latest binary created
+    latest_bin=$(find "$GOPATH/bin" -type f -executable -printf "%T@ %p\n" 2>/dev/null | sort -n | tail -1 | cut -d' ' -f2-)
 
     if [[ -n "$latest_bin" && -f "$latest_bin" ]]; then
       bin_name=$(basename "$latest_bin")

@@ -6,6 +6,11 @@ if [ "$(id -u)" != "0" ]; then
     exit 1
 fi
 
+# Dynamically get current folder (bugbounty/)
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+TOOLS_DIR="$SCRIPT_DIR"
+BASE_DIR="/opt/bugbounty"
+
 # Set up logging
 LOGFILE="/tmp/bugbounty_tools_install_$(date +%F_%H-%M-%S).log"
 exec > >(tee -a "$LOGFILE") 2>&1
@@ -16,9 +21,9 @@ echo "Installing dependencies..."
 apt-get update -y
 apt-get install -y git python3 python3-pip golang-go unzip ruby-dev build-essential libssl-dev libffi-dev python2 python2-dev
 
-# Install Go if not present
+# Install Go manually if not installed
 if ! command -v go &> /dev/null; then
-    echo "Installing Go..."
+    echo "Installing Go manually..."
     wget https://go.dev/dl/go1.22.5.linux-amd64.tar.gz
     tar -C /usr/local -xzf go1.22.5.linux-amd64.tar.gz
     rm go1.22.5.linux-amd64.tar.gz
@@ -26,19 +31,17 @@ if ! command -v go &> /dev/null; then
     export PATH=$PATH:/usr/local/go/bin
 fi
 
-# Set up directories
-BASE_DIR="/opt/bugbounty"
-TOOLS_DIR="$HOME/Desktop/uploads/Tool-Setup/bugbounty"
+# Create base install directory
 mkdir -p "$BASE_DIR"
 cd "$TOOLS_DIR" || { echo "Failed to change to $TOOLS_DIR"; exit 1; }
 
-# Check for tools.txt
+# Check for tools file
 if [ ! -f "tools/tools.txt" ]; then
     echo "Error: tools/tools.txt not found in $TOOLS_DIR"
     exit 1
 fi
 
-# Run split.py to generate category files
+# Run split.py if it exists
 if [ -f "split.py" ]; then
     echo "Splitting tools.txt into category files..."
     python3 split.py
@@ -47,11 +50,9 @@ else
     exit 1
 fi
 
-# Install tools
+# Process each tool
 while IFS= read -r line; do
-    if [ -z "$line" ]; then
-        continue
-    fi
+    [[ -z "$line" ]] && continue
     TYPE=$(echo "$line" | awk '{print $1}')
     NAME=$(echo "$line" | awk '{print $2}')
     URL=$(echo "$line" | awk '{print $3}')
@@ -62,59 +63,39 @@ while IFS= read -r line; do
 
     case "$TYPE" in
         git)
-            git clone "$URL" "$DEST_DIR"
-            if [ $? -eq 0 ]; then
+            git clone "$URL" "$DEST_DIR" && {
                 echo "$NAME cloned successfully"
                 cd "$DEST_DIR"
-                if [ -f "requirements.txt" ]; then
-                    pip3 install -r requirements.txt
-                elif [ -f "setup.py" ]; then
-                    python3 setup.py install || python2 setup.py install
-                fi
-                if [ -f "Makefile" ]; then
-                    make
-                fi
+                [[ -f requirements.txt ]] && pip3 install -r requirements.txt
+                [[ -f setup.py ]] && (python3 setup.py install || python2 setup.py install)
+                [[ -f Makefile ]] && make
                 cd "$TOOLS_DIR"
-            else
-                echo "Failed to clone $NAME"
-            fi
+            } || echo "Failed to clone $NAME"
             ;;
         pip)
-            pip3 install "$NAME"
-            if [ $? -eq 0 ]; then
+            pip3 install "$NAME" && {
                 echo "$NAME installed via pip"
-                cp "$(which $NAME)" "$DEST_DIR/" 2>/dev/null || echo "No binary for $NAME"
-            else
-                echo "Failed to install $NAME via pip"
-            fi
+                cp "$(command -v $NAME)" "$DEST_DIR/" 2>/dev/null || echo "No binary for $NAME"
+            } || echo "Failed to install $NAME via pip"
             ;;
         apt)
-            apt-get install -y "$NAME"
-            if [ $? -eq 0 ]; then
+            apt-get install -y "$NAME" && {
                 echo "$NAME installed via apt"
-                cp "$(which $NAME)" "$DEST_DIR/" 2>/dev/null || echo "No binary for $NAME"
-            else
-                echo "Failed to install $NAME via apt"
-            fi
+                cp "$(command -v $NAME)" "$DEST_DIR/" 2>/dev/null || echo "No binary for $NAME"
+            } || echo "Failed to install $NAME via apt"
             ;;
         go)
-            /usr/local/go/bin/go install "$URL"
-            if [ $? -eq 0 ]; then
+            /usr/local/go/bin/go install "$URL" && {
                 echo "$NAME installed via go"
                 mv ~/go/bin/* "$DEST_DIR/" 2>/dev/null || echo "No binary for $NAME"
-            else
-                echo "Failed to install $NAME via go"
-            fi
+            } || echo "Failed to install $NAME via go"
             ;;
         binary)
             if [ -f "download_release.py" ]; then
-                python3 download_release.py "$URL" "$DEST_DIR"
-                if [ $? -eq 0 ]; then
+                python3 download_release.py "$URL" "$DEST_DIR" && {
                     echo "$NAME binary downloaded"
                     chmod +x "$DEST_DIR"/*
-                else
-                    echo "Failed to download $NAME binary"
-                fi
+                } || echo "Failed to download $NAME binary"
             else
                 echo "Error: download_release.py not found in $TOOLS_DIR"
             fi
@@ -128,16 +109,16 @@ while IFS= read -r line; do
     esac
 done < "tools/tools.txt"
 
-# Special handling for Arachni (manual download)
+# Arachni (manual install handling)
 echo "Handling Arachni manual installation..."
-cd "$BASE_DIR/Frameworks/Arachni"
-wget http://www.arachni-scanner.com/downloads/arachni-latest.tar.gz || echo "Failed to download Arachni; visit http://www.arachni-scanner.com/"
+cd "$BASE_DIR/Frameworks/Arachni" || mkdir -p "$BASE_DIR/Frameworks/Arachni" && cd "$BASE_DIR/Frameworks/Arachni"
+wget http://www.arachni-scanner.com/downloads/arachni-latest.tar.gz || echo "Failed to download Arachni"
 if [ -f "arachni-latest.tar.gz" ]; then
     tar -xzf arachni-latest.tar.gz
     cd arachni-* || echo "Failed to enter Arachni directory"
     ./bin/arachni --help 2>/dev/null || echo "Arachni requires manual setup; check $BASE_DIR/Frameworks/Arachni"
 fi
 
-# Clean up
+# Done
 cd "$TOOLS_DIR"
 echo "Installation complete. Check $LOGFILE for details."

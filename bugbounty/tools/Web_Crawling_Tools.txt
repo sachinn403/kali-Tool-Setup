@@ -1,0 +1,12 @@
+git:Gospider https://github.com/jaeles-project/gospider Web_Crawling_Tools
+git:Hakrawler https://github.com/hakluke/hakrawler Web_Crawling_Tools
+git:Waybackurls https://github.com/tomnomnom/waybackurls Web_Crawling_Tools
+git:katana https://github.com/projectdiscovery/katana/cmd/katana Web_Crawling_Tools
+git:Parameters https://github.com/mrco24/parameters Web_Crawling_Tools
+git:GF https://github.com/tomnomnom/gf Web_Crawling_Tools
+git:otx-url https://github.com/mrco24/otx-url Web_Crawling_Tools
+git:Web-archive https://github.com/mrco24/web-archive Web_Crawling_Tools
+pip:xnLinkFinder https://pypi.org/project/xnLinkFinder/ Web_Crawling_Tools
+git:ParamSpider https://github.com/devanshbatham/paramspider Web_Crawling_Tools
+git:Guaplus https://github.com/bp0lr/gauplus.git Web_Crawling_Tools
+git:freq https://github.com/takshal/freq.git Web_Crawling_Tools

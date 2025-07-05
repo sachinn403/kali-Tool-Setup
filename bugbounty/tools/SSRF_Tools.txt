@@ -1,0 +1,3 @@
+git:Interactsh https://github.com/projectdiscovery/interactsh/cmd/interactsh-client SSRF_Tools
+git:SSRFmap https://github.com/swisskyrepo/SSRFmap SSRF_Tools
+git:Gopherus https://github.com/tarunkant/Gopherus.git SSRF_Tools

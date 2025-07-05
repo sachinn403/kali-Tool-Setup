@@ -1,0 +1,7 @@
+git:Dalfox https://github.com/hahwul/dalfox XSS_Tools
+git:kxss https://github.com/Emoe/kxss XSS_Tools
+git:Gxss https://github.com/KathanP19/Gxss XSS_Tools
+git:Bxss https://github.com/ethicalhackingplayground/bxss XSS_Tools
+git:Findom-xss https://github.com/dwisiswant0/findom-xss XSS_Tools
+git:XSStrike https://github.com/s0md3v/XSStrike XSS_Tools
+git:XSS_VIBES https://github.com/faiyazahmad07/xss_vibes.git XSS_Tools

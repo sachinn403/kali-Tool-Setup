@@ -1,0 +1,4 @@
+git:GitDorker https://github.com/obheda12/GitDorker Git_Hunting_Tools
+git:gitGraber https://github.com/hisxo/gitGraber Git_Hunting_Tools
+git:GitTools https://github.com/internetwache/GitTools Git_Hunting_Tools
+pip:GitHacker https://pypi.org/project/GitHacker/ Git_Hunting_Tools

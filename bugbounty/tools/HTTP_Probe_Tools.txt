@@ -1,0 +1,2 @@
+git:httpx https://github.com/projectdiscovery/httpx HTTP_Probe_Tools
+git:httprobe https://github.com/tomnomnom/httprobe HTTP_Probe_Tools

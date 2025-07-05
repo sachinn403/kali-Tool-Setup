@@ -1,0 +1,4 @@
+git:Jeeves https://github.com/ferreiraklet/Jeeves Sql_Tools
+git:time-sql https://github.com/mrco24/time-sql Sql_Tools
+git:mrco24-error-sql https://github.com/mrco24/mrco24-error-sql Sql_Tools
+git:ghauri https://github.com/r0oth3x49/ghauri Sql_Tools

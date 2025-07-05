@@ -1,0 +1,4 @@
+apt:Dirbuster https://packages.ubuntu.com/dirbuster Directory_Fuzzers
+git:ffuf https://github.com/ffuf/ffuf Directory_Fuzzers
+git:gobuster https://github.com/OJ/gobuster Directory_Fuzzers
+git:feroxbuster https://github.com/epi052/feroxbuster Directory_Fuzzers

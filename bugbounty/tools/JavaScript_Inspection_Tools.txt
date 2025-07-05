@@ -1,0 +1,2 @@
+git:LinkFinder https://github.com/GerbenJavado/LinkFinder JavaScript_Inspection_Tools
+git:JSParser https://github.com/nahamsec/JSParser JavaScript_Inspection_Tools

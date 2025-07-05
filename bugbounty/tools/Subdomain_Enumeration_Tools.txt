@@ -1,0 +1,9 @@
+git:Sublist3r https://github.com/aboul3la/Sublist3r Subdomain_Enumeration_Tools
+git:Sudomy https://github.com/screetsec/Sudomy Subdomain_Enumeration_Tools
+git:CertCrunchy https://github.com/joda32/CertCrunchy Subdomain_Enumeration_Tools
+git:assetfinder https://github.com/tomnomnom/assetfinder Subdomain_Enumeration_Tools
+git:subfinder https://github.com/projectdiscovery/subfinder Subdomain_Enumeration_Tools
+git:github-subdomains https://github.com/gwen001/github-subdomains Subdomain_Enumeration_Tools
+git:crobat https://github.com/cgboal/sonarsearch Subdomain_Enumeration_Tools
+git:mapcidr https://github.com/projectdiscovery/mapcidr Subdomain_Enumeration_Tools
+git:Findomain https://github.com/findomain/findomain Subdomain_Enumeration_Tools

@@ -1,0 +1,4 @@
+git:GetJS https://github.com/003random/getJS JavaScript_Hunting_Tools
+git:SecretFinder https://github.com/m4ll0k/SecretFinder JavaScript_Hunting_Tools
+git:JSScanner https://github.com/dark-warlord14/JSScanner JavaScript_Hunting_Tools
+binary:subjs https://github.com/lc/subjs/releases/download/v1.0.1/subjs_1.0.1_linux_amd64.tar.gz JavaScript_Hunting_Tools

@@ -1,0 +1,4 @@
+pip:Droopescan https://pypi.org/project/droopescan/ CMS_Scanners
+git:Nrich https://gitlab.com/api/v4/projects/33695681/releases CMS_Scanners
+git:AEM-Hacking https://github.com/0ang3el/aem-hacker CMS_Scanners
+git:WhatWaf https://github.com/Ekultek/WhatWaf CMS_Scanners

@@ -1,0 +1,2 @@
+git:w3af https://github.com/andresriancho/w3af Frameworks
+manual:Arachni http://www.arachni-scanner.com/ Frameworks

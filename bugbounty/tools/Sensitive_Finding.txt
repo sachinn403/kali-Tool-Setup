@@ -1,0 +1,4 @@
+git:EarlyBird https://github.com/americanexpress/earlybird.git Sensitive_Finding
+apt:Ripgrep apt-get install -y ripgrep Sensitive_Finding
+git:Gau-Expose https://github.com/tamimhasan404/Gau-Expose.git Sensitive_Finding
+go:Mantra /usr/local/go/bin/go install github.com/MrEmpy/mantra@latest Sensitive_Finding

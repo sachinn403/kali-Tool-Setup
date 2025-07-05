@@ -1,0 +1,5 @@
+git:dnsx https://github.com/projectdiscovery/dnsx Dns_Resolver
+git:puredns https://github.com/d3mondev/puredns Dns_Resolver
+git:shuffledns https://github.com/projectdiscovery/shuffledns Dns_Resolver
+git:MassDNS https://github.com/blechschmidt/massdns Dns_Resolver
+git:dnsvalidator https://github.com/vortexau/dnsvalidator Dns_Resolver

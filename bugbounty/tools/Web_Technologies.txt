@@ -1,0 +1,1 @@
+git:Wappalyzer-CLI https://github.com/gokulapap/wappalyzer-cli Web_Technologies

@@ -1,0 +1,2 @@
+pip:Arjun https://pypi.org/project/arjun/ HTTP_Parameter_Tools
+binary:x8 https://github.com/mrco24/x8/raw/main/x8 HTTP_Parameter_Tools

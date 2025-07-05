@@ -1,0 +1,14 @@
+git:notify https://github.com/projectdiscovery/notify Useful_Tools
+git:tok https://github.com/mrco24/tok Useful_Tools
+git:gau https://github.com/lc/gau Useful_Tools
+git:anti-burl https://github.com/tomnomnom/hacks/tree/master/anti-burl Useful_Tools
+git:unfurl https://github.com/tomnomnom/unfurl Useful_Tools
+git:anew https://github.com/tomnomnom/anew Useful_Tools
+git:fff https://github.com/tomnomnom/fff Useful_Tools
+git:gron https://github.com/tomnomnom/gron Useful_Tools
+git:qsreplace https://github.com/tomnomnom/qsreplace Useful_Tools
+git:subzy https://github.com/LukaSikic/subzy Useful_Tools
+git:cf-check https://github.com/dwisiswant0/cf-check Useful_Tools
+git:SploitScan https://github.com/xaitax/SploitScan Useful_Tools
+git:Oralyzer https://github.com/r0075h3ll/Oralyzer Useful_Tools
+git:Interlace https://github.com/codingo/Interlace Useful_Tools

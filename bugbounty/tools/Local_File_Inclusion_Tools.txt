@@ -1,0 +1,2 @@
+git:LFISuite https://github.com/D35m0nd142/LFISuite Local_File_Inclusion_Tools
+git:mrco24-lfi https://github.com/mrco24/mrco24-lfi Local_File_Inclusion_Tools

@@ -3,7 +3,7 @@ git:Linux-Exploit-Suggester https://github.com/mzet-/linux-exploit-suggester.git
 git:LinEnum https://github.com/rebootuser/LinEnum.git LinEnum
 git:unix-privesc-check https://github.com/pentestmonkey/unix-privesc-check.git unix-privesc-check
 git:SUID3NUM https://github.com/Anon-Exploiter/SUID3NUM.git SUID3NUM
-git:GTFOBins https://github.com/GTFOBins/GTFOBins.git GTFOBins
+git:GTFONow https://github.com/Frissi0n/GTFONow.git GTFONow
 git:PEASS https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite.git PEASS
 git:Checksec https://github.com/slimm609/checksec.sh.git Checksec
 git:Linux-Exploit-Suggester-2 https://github.com/jondonas/linux-exploit-suggester-2.git Linux-Exploit-Suggester-2

@@ -15,10 +15,21 @@ else
     exit 1
 fi
 
-# Install Kali Metapackage (with suggested & recommended packages)
-echo "[*] Installing all Kali Linux metapackages with suggestions and recommendations..."
-sudo apt install -y --install-recommends --install-suggests kali-linux-everything
-echo "[✓] Kali tools (full) installed."
+# Install only selected Kali metapackages
+echo "[*] Installing selected Kali Linux metapackages..."
+sudo apt install -y \
+    kali-linux-labs \
+    kali-tools-windows-resources \
+    kali-tools-reporting \
+    kali-tools-post-exploitation \
+    kali-tools-reverse-engineering \
+    kali-tools-web \
+    kali-tools-database \
+    kali-tools-forensics \
+    kali-tools-crypto-stego \
+    kali-tools-exploitation
+
+echo "[✓] Selected Kali tools installed."
 
 # Cleanup
 echo "[*] Cleaning up..."
@@ -27,4 +38,3 @@ sudo apt clean
 echo "[✓] System cleanup completed."
 
 echo "[✓] All tasks completed successfully!"
-# Exit script
